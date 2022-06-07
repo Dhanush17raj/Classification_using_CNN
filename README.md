@@ -1,1 +1,1 @@
-# Classification_using_CNN
+# Classifier_using_CNN
